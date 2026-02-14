@@ -7,3 +7,7 @@ Works in portrait or landscape.
 Hopefully it will be useful to people who want to build things for the Playdate console.
 
 It was created using Claude Code on an iPhone. Tested in Mobile Safari and Brave desktop browsers only.
+
+If you're on a desktop computer, you can run the index.html file directly in your browser.
+On a phone, deploy it to a server, eg something like Netlify in order to run it.
+https://playdate-camera.netlify.app/
